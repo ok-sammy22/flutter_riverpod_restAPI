@@ -88,5 +88,5 @@ flutter run
 
 ## 👤 Author
 
-🔹 **Your Name**  
+🔹 **Okunola iyanujesu**  
 📧 Contact: `samuelokunola02@gmail.com`
