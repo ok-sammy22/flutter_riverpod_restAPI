@@ -41,3 +41,31 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignore CMake and C++ build files
+CMakeLists.txt
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+*.bin
+
+# Ignore Swift and iOS build files
+*.xcworkspace
+*.xcodeproj
+*.xcuserstate
+*.xcscmblueprint
+*.xcscheme
+
+# Ignore Dart build files (Flutter)
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
